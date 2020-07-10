@@ -1,0 +1,1 @@
+Script work with jenkins
